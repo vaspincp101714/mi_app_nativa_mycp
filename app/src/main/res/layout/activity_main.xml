@@ -187,8 +187,6 @@
         android:scaleType="fitXY"
         android:src="@drawable/person"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteZ="319dp" />
